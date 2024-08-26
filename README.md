@@ -47,7 +47,8 @@ Summarize the key findings of the analysis and the benefits of using the selecte
 
 
 
-![NumPy-Logo-768x768](https://github.com/user-attachments/assets/054a7d50-b26a-4ad3-84f6-0c91cd306255)
+![image](https://github.com/user-attachments/assets/37785bf1-eb99-4396-bf82-b66f6ea630bb)
+
 
 
 
