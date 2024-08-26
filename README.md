@@ -44,3 +44,10 @@ Reasoning: Justify why the selected model outperforms the others in predicting l
 
 # Conclusion
 Summarize the key findings of the analysis and the benefits of using the selected model for future campaigns. Highlight the potential business impact and any recommendations for the bank's marketing strategy.
+
+
+
+![NumPy-Logo-768x768](https://github.com/user-attachments/assets/054a7d50-b26a-4ad3-84f6-0c91cd306255)
+
+
+
